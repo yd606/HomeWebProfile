@@ -1,0 +1,89 @@
+body, html {
+	font-family: bauhaus,consolas;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: #f5fffa;
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+}
+
+div {
+	position: absolute;
+	top: 10%;
+	left: 45.2%;
+	transform: translate(-50%, -50%);
+}
+.typing h1 {
+	color: #2f4f4f;
+}
+.typing h1 .smile{
+	color: #fff;
+	background-color: #1e90ff;
+	font-family: consolas;
+	font-size: 100%;
+	border: none;
+}
+
+form {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+form textarea{
+	background-color: #f0f8ff;
+	border: 20%;
+	border-color: #00111b;
+	border-radius: 4px;
+}
+
+form input{
+	color: #fff;
+	font-family: consolas,Bahnschrift;
+	background-color: #00008b;
+	border-color: #00008b ;
+	border-radius: 4px;
+}
+
+
+
+.form .but {
+	font-family: kristen ITC,consolas;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffd700;
+	color: darkred;
+	text-decoration: none;
+	border-radius: 3px;
+	border: 1px solid transparent;
+		}
+
+.typing > * {
+	overflow: hidden;
+	white-space: nowrap;
+	animation: typingAnim 1s steps(9);
+}
+
+@keyframes typingAnim{
+	from {width: 0;}
+	to {width: 100%;}
+}
+
+@media screen and (max-width:  411px){
+
+	div {
+	position: absolute;
+	top: 10%;
+	left: 26%;
+	font-size: 10px;
+	transform: translate(-50%, -50%);
+}
+
+	form textarea{
+	position: center;
+}
+
+}

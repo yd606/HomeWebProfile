@@ -1,0 +1,30 @@
+
+ html, body {
+    font:15px consolas,sans-serif;
+    color: red;
+    text-decoration: none;
+}
+
+ fieldset {
+    border:1px solid #000000 ;
+    width:100%;
+}
+
+ legend {
+    border:1px solid #000000 ;
+}
+
+ table {
+    border-collapse:collapse;
+    width:100%;
+}
+
+ td, th {
+    border:1px solid #c0c0c0;
+    padding:5px;
+}
+
+th{
+    background: #000000 ;
+    color:#ffffff;
+}  

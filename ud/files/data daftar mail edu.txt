@@ -1,0 +1,36 @@
+data daftar mail edu pcc.edu
+
+=================================
+email (mail.tm)
+login  : matthewkato@pussport.com
+passswd: 1BWsTPmmqzwVsp@o
+=================================
+
+=================================
+data diri 
+name 	: Matthew Kato
+SSN		: 694-01-5646
+street	: 497 Nelm Street
+city	: Washington
+state	: Virginia
+poscode	: 20005
+phon1	: 571-934-0972
+phon2	: 757-560-9481
+===============================
+
+link tutorial	: https://youtu.be/-Y03uz1zR9Y 15:00 to next step
+
+
+=================================================================
+Generate mail edu
+https://www.istaunch.com/edu-email-generator/
+
+
+
+
+
+lyam.graham@my.jcu.edu.au : pjFSzQKt2
+
+jack.willcox@my.jcu.edu.au :Smakaroo23
+
+kelly.moran@falcons.lackawanna.edu  :Kellyannlu27 (onedrive)
